@@ -13,8 +13,8 @@ Basic knowledge in IT
 |No | Date |Topic |
 |:-:|:-:|:-:|
 |Lab 1| 24 Jan 2022 | Python Basic | 
-|Lab 2| |Control Structure | 
-|Lab 3|  |Functions | 
+|Lab 2| 7 and 14 Feb 2022 |Control Structure | 
+|Lab 3| |Functions | 
 |Lab 4| |Pandas Series and Dataframe | 
 |Lab 5| |Basic Data Visualization | 
 |Lab 6| |OOP - Class | 
