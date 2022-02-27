@@ -14,8 +14,8 @@ Basic knowledge in IT
 |:-:|:-:|:-:|
 |Lab 1| 24 Jan 2022 | Python Basic | 
 |Lab 2| 7 and 14 Feb 2022 |Control Structure | 
-|Lab 3| |Functions | 
-|Lab 4| |Pandas Series and Dataframe | 
+|Lab 3| 21 Feb 2022 |Functions | 
+|Lab 4| 28 Feb 2022 |Pandas Series and Dataframe | 
 |Lab 5| |Basic Data Visualization | 
 |Lab 6| |OOP - Class | 
 |Lab 7| |Build your own blockchain part 1 | 
