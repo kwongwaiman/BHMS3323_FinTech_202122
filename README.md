@@ -13,10 +13,10 @@ Basic knowledge in IT
 |No | Date |Topic |
 |:-:|:-:|:-:|
 |Lab 1| 24 Jan 2022 | Python Basic | 
-|Lab 2| 7 and 14 Feb 2022 |Control Structure | 
+|Lab 2| 7 Feb 2002 and 14 Feb 2022 |Control Structure | 
 |Lab 3| 21 Feb 2022 |Functions | 
-|Lab 4| 28 Feb and 7 March 2022 |Pandas Series and Dataframe | 
+|Lab 4| 28 Feb 2022 and 7 March 2022 |Pandas Series and Dataframe | 
 |Lab 5| 14 March 2022|Basic Data Visualization | 
 |Lab 6| 21 March 2022|OOP - Class | 
 |Lab 7| 28 March 2022|Build your own blockchain part 1 | 
-|Lab 8| |Build your own blockchain part 2 | 
+|Lab 8| 4 April 2022 and 11 April 2022|Build your own blockchain part 2 | 
